@@ -122,5 +122,4 @@ source $ZSH/oh-my-zsh.sh
 # mappings for page Up and page Down for word moving
 #
 bindkey "^[[5~" history-beginning-search-backward
-
 bindkey "^[[6~" history-beginning-search-forward
