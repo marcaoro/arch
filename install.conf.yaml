@@ -7,7 +7,6 @@
 - link:
     ~/.dotfiles: ''
     ~/.vim: vim
-    ~/.vimrc: vimrc
     ~/.config/neofetch: neofetch
 
 - shell:
