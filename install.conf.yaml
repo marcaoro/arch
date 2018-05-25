@@ -8,6 +8,6 @@
     ~/.dotfiles: ''
     ~/.vim: vim
     ~/.config/neofetch: neofetch
-    ~/.zshrc: zshrc
-- shell:
+    #~/.zshrc: zshrc
+  - shell:
   - [git submodule update --init --recursive, Installing submodules]
