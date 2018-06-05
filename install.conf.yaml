@@ -9,8 +9,9 @@
     ~/.vim: vim
     ~/.config/neofetch: neofetch
     #~/.zshrc: zshrc
-    ~/.config/yakuakerc: yakuakerc
+    #~/.config/yakuakerc: yakuakerc
     ~/.config/htop: htop
+    ~/.config/polybar: polybar
 
 - shell:
   - [git submodule update --init --recursive, Installing submodules]
