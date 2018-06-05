@@ -208,9 +208,7 @@ ramp-2 = 
 
 [module/wlan]
 type = internal/network
-
 interface = wlp3s0
-
 interval = 5
 
 label-connected =  %essid%
@@ -233,7 +231,5 @@ label-connected =  %downspeed% |  %upspeed%
 [bar/float]
 
 inherit = bar/white
-
 background = #ffffff
-
 tray-position = center
